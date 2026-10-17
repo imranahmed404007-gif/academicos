@@ -1,0 +1,9 @@
+# AcademicOS Build Artifacts
+*.exe
+*.o
+*.obj
+build/
+*.dat
+*.log
+.vscode/
+Example/
